@@ -35,16 +35,6 @@ lang: "`eng-GBR-oxendict`"
   #    </ol> </td>
   #</tr> </table>
 
-date: "`r format(Sys.Date())`"
-
-  #<table> <tr>
-  #    <th> Information </th>
-  #    <td> Defines the date to output during export. </td>
-  #</tr><tr>
-  #    <th> Citations </th>
-  #    <td> <a href="https://stackoverflow.com/revisions/29518651/4#:~:text=tm%20%3C-%20as,the%20%22extended%20format%22"> StackOverflow </a> </td>
-  #</tr> </table>
-
 author:
 
   #<table><tr>
