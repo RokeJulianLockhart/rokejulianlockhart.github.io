@@ -4,11 +4,7 @@ See [`docs.github.com/en/enterprise-server@3.13/pages/getting-started-with-githu
 
 #### The Status Of Maintenance Of The Repository:
 
-Not utilised
-
-#### The Author Of The Repository:
-
-The owner
+Because this is not utilised, it is not maintained.
 
 #### The Purpose Of The Repository:
 
