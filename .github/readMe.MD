@@ -8,8 +8,8 @@
 
 1.	#### The Purpose Of The Repository:
 
-	This repository exists to allow me to understand the capabilities of GitHub Pages.
+	This repository exists to allow its immediate owner to understand the capabilities of GitHub Pages.
 
 1.	#### The Status Of Maintenance Of The Repository:
 
-	Because this is not utilised, it is not maintained.
+	Because this is not utilised, it is not frequently maintained.
